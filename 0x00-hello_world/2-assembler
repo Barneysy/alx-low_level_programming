@@ -1,2 +1,2 @@
 #!/bin/bash
-output=output_main.s
+gcc -S $CFILE
